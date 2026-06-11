@@ -5,7 +5,8 @@ What to expect when you run this project:
 
 # 1. Use cmd: streamlit run app.py 
 and the following will open:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1bd86a01-a1fc-4bc9-bdca-7efecd3a3dc2" />
+<img width="401" height="282" alt="image" src="https://github.com/user-attachments/assets/a633bb0e-8c4d-4fe4-b121-4219d9336659" />
+
 
 # 2. Go to OpenRouter
 Get your API Key & insert it.
@@ -13,12 +14,18 @@ Get your API Key & insert it.
 # 3. The following will open:
 Choose your tutor model,
 then choose if you want to verify the response generated through pdf & web or not (If yes, choose verifier model as well)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7081e882-3f4c-4705-8e81-3aff420127a8" />
+<img width="309" height="325" alt="image" src="https://github.com/user-attachments/assets/6aa99a4d-70d2-4bb0-bc61-fd6520e74dee" />
+
 
 # 4. Browse through your files
 Upload the PDFs, and get the generated response.
+<img width="742" height="553" alt="image" src="https://github.com/user-attachments/assets/009f80f0-8848-4701-bc45-bced5fdb1003" />
+
 You can also click on "Generate Chat History" in the sidebar and then download the chat in pretty HTML document.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff00fd5d-b131-4b4b-9f05-696826fc22a9" />
+<img width="283" height="154" alt="image" src="https://github.com/user-attachments/assets/a80387cf-b80a-4265-a46d-993d2b58710d" />
+
+This is how it will look like:
+<img width="555" height="316" alt="image" src="https://github.com/user-attachments/assets/5f9f91e5-917d-4e19-bb00-034c1f85878f" />
 
 This project showcases concept of Retrieval-Augmented Generation (RAG), a way to make AI answers more reliable by combining searching for relevant information and then generating a response instead of guessing based only on old training data. It finds useful data from external sources (like documents) and then uses it to give a better answer. 
 
