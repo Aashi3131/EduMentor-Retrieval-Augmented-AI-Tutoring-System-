@@ -1,0 +1,6 @@
+streamlit>=1.28.0 #app.py and file_upload.py
+openai>=1.40.0 #api_handler.py
+markdown2>=2.4.0 #chat_gen.py
+pymupdf #file_upload.py
+sentence-transformers #rag_retrieval.py
+faiss-cpu #rag_retrieval.py
