@@ -10,7 +10,7 @@ and the following will open:
 # 2. Go to OpenRouter
 Get your API Key & insert it.
 
-#3. The following will open:
+# 3. The following will open:
 Choose your tutor model,
 then choose if you want to verify the response generated through pdf & web or not (If yes, choose verifier model as well)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7081e882-3f4c-4705-8e81-3aff420127a8" />
