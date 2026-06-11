@@ -32,11 +32,3 @@ Concepts this project covers:
 7. Prompt Augmentation Layer: Combines retrieved chunks with the user’s query to provide context to the LLM.
 8. LLM (Generator): Generates a grounded response using both the query and retrieved knowledge.
 9. Verifier (Optional): Checks if response generated is valid according to the PDF and Web.
-
-Here's the ingesetion flow:
-<img width="338" height="183" alt="image" src="https://github.com/user-attachments/assets/6716bc83-94f5-4391-9765-bc9e55a9635c" />
-
-Here's the Query Flow:
-<img width="664" height="529" alt="image" src="https://github.com/user-attachments/assets/b4402802-4764-47f8-a201-621821952113" />
-
-# Note: Individual pages of a PDF are chunked seperately, causing page boundary context loss. Can be improved by chunking the whole PDF Text at once.
