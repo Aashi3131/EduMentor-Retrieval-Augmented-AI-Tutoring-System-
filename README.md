@@ -1,4 +1,4 @@
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/8d8c49d5-f2f7-43e3-ad5c-0026559c8932" /># EduMentor: Semantic RAG Tutoring System
+# EduMentor: Semantic RAG Tutoring System
 EduMentor is an interactive, vector-based Retrieval-Augmented Generation (RAG) tutoring system. It enables students to upload slide decks, lecture notes, and ask questions. The system returns answers strictly grounded in the document context, accompanied by automated dual-source fact-checking badges.
 
 What to expect when you run this project:
